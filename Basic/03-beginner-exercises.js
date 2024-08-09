@@ -112,11 +112,3 @@ como constantes*/
 // eMail = "jairousuay@gmail.com"
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarser
-// nombre2 = "Alberto"
-// edad2 = 45 
-// estatura2 = 1.7
-// bigInt2 = BigInt(3838292838292)
-// esEstudiante2 = false
-// esNull2 = 48474
-// symbol2 = Symbol("otro simbolo")
-// eMail = "jairousuay@gmail.com"
